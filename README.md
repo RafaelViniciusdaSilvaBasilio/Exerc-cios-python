@@ -1,2 +1,2 @@
 # Exercícios python
- Exercícios feito no beecrowd
+ Exercícios feito no beecrowd ou na aula
