@@ -1,6 +1,7 @@
 N1,N2,N3,N4 = list(map(float,input().split()))
 X = (((N1*2) + (N2*3) + (N3*4) + (N4*1)) /10);
 print(f'Media: {X:.1f}')
+
 if X >= 7.0:
     print("Aluno aprovado.")
 elif X < 5.0:
